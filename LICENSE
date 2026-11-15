@@ -1,0 +1,31 @@
+Site de mariage OKALMI
+Copyright (c) 2026 OKALMI. Tous droits réservés. / All rights reserved.
+
+FR — Ce dépôt est public uniquement pour permettre l'hébergement du site. Il ne s'agit PAS d'un
+logiciel libre. Le code, les textes, les illustrations et les deux morceaux de musique originaux
+sont la propriété exclusive d'OKALMI.
+
+Sont autorisés : l'utilisation du site tel qu'il est publié par OKALMI, par les personnes ayant
+acheté le produit, pour créer et partager le site de leur propre mariage.
+
+Sont interdits sans accord écrit préalable d'OKALMI : la copie, la modification, la
+redistribution, la revente, l'hébergement d'une copie, ainsi que la réutilisation de tout ou
+partie du code, des illustrations ou de la musique dans un autre produit ou service.
+
+EN — This repository is public only so that the site can be hosted. It is NOT open-source
+software. The code, texts, illustrations and the two original music tracks are the exclusive
+property of OKALMI.
+
+Permitted: use of the site as published by OKALMI, by people who purchased the product, to
+create and share the website of their own wedding.
+
+Prohibited without prior written consent from OKALMI: copying, modifying, redistributing,
+reselling, hosting a copy, or reusing all or part of the code, illustrations or music in any
+other product or service.
+
+Composants tiers (licences libres) / Third-party components:
+- fflate (MIT) — compression ; qrcode-generator (MIT) — QR code
+- Polices / Fonts (SIL Open Font License 1.1) : Allura, Cormorant Garamond, Lato, Playfair Display,
+  Jost, Pinyon Script, Cinzel, EB Garamond, Yeseva One, Marcellus
+
+Contact : boutique OKALMI — https://www.etsy.com/shop/OkalmiStudio
